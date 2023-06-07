@@ -1,0 +1,3 @@
+moduloPrincipal: moduloPrincipal__GC0, datapath__5_moduloReceptorUART__GD, moduloReceptorUART__GB3, moduloReceptorUART__GB2, moduloReceptorUART__GB1, case__21_moduloReceptorUART__GD, moduloTransmisorUART, 
+moduloUART: datapath__5_moduloReceptorUART__GD, moduloReceptorUART__GB3, moduloReceptorUART__GB2, moduloReceptorUART__GB1, case__21_moduloReceptorUART__GD, moduloTransmisorUART, 
+moduloReceptorUART: datapath__5_moduloReceptorUART__GD, moduloReceptorUART__GB3, moduloReceptorUART__GB2, moduloReceptorUART__GB1, case__21_moduloReceptorUART__GD, 

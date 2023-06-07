@@ -1,0 +1,4 @@
+xilinx rtfpga
+INFO: [Synth 8-3886] merging instance 'registroIndiceBitRecibir_reg[4]' (FDCE) to 'registroIndiceBitRecibir_reg[7]'
+INFO: [Synth 8-3886] merging instance 'registroIndiceBitRecibir_reg[5]' (FDCE) to 'registroIndiceBitRecibir_reg[7]'
+INFO: [Synth 8-3886] merging instance 'registroIndiceBitRecibir_reg[6]' (FDCE) to 'registroIndiceBitRecibir_reg[7]'
