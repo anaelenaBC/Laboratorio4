@@ -2,3 +2,6 @@ Running: xsim.dir/Laboratorio4_time_synth/xsimk.exe -simmode gui -wdb Laboratori
 Design successfully loaded
 Design Loading Memory Usage: 14668 KB (Peak: 14668 KB)
 Design Loading CPU Usage: 46 ms
+Simulation completed
+Simulation Memory Usage: 17592 KB (Peak: 17592 KB)
+Simulation CPU Usage: 124 ms
