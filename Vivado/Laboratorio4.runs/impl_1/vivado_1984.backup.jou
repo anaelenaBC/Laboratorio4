@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Jun  8 20:58:12 2023
+# Process ID: 1984
+# Current directory: C:/Users/aebol/OneDrive/Desktop/Laboratorio4/Vivado/Laboratorio4.runs/impl_1
+# Command line: vivado.exe -log Laboratorio4.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Laboratorio4.tcl -notrace
+# Log file: C:/Users/aebol/OneDrive/Desktop/Laboratorio4/Vivado/Laboratorio4.runs/impl_1/Laboratorio4.vdi
+# Journal file: C:/Users/aebol/OneDrive/Desktop/Laboratorio4/Vivado/Laboratorio4.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Laboratorio4.tcl -notrace

@@ -1,0 +1,14 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/aebol/OneDrive/Desktop/Laboratorio4/Vivado/Laboratorio4.sim/sim_1/synth/timing/xsim/Laboratorio4_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Laboratorio4
+INFO: [VRFC 10-311] analyzing module moduloHexadecimalDisplaySieteSegmentos
+INFO: [VRFC 10-311] analyzing module moduloProcesador
+INFO: [VRFC 10-311] analyzing module moduloReceptorUART
+INFO: [VRFC 10-311] analyzing module moduloReceptorUART_2
+INFO: [VRFC 10-311] analyzing module moduloReceptorUART_4
+INFO: [VRFC 10-311] analyzing module moduloTransmisorUART
+INFO: [VRFC 10-311] analyzing module moduloTransmisorUART_3
+INFO: [VRFC 10-311] analyzing module moduloTransmisorUART_5
+INFO: [VRFC 10-311] analyzing module moduloUART
+INFO: [VRFC 10-311] analyzing module moduloUART_0
+INFO: [VRFC 10-311] analyzing module moduloUART_1
+INFO: [VRFC 10-311] analyzing module glbl

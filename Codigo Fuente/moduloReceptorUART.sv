@@ -13,7 +13,7 @@ module moduloReceptorUART #(parameter CICLOS_DE_RELOJ_POR_BIT = 10417, parameter
     parameter ESTADO_LIMPIEZA = 3'b100;
   
     reg [2:0] registroEstadoActual;
-    reg [CICLOS_DE_RELOJ_POR_BIT-1:0] registroContadorCiclosReloj;
+    reg [13:0] registroContadorCiclosReloj;
     reg [CANTIDAD_BITS_TRANSMISION-1:0] registroIndiceBitRecibir;
     reg [CANTIDAD_BITS_TRANSMISION-1:0] registroBitsRecibidos;
     reg registroRecepcionFinalizada;

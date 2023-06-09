@@ -33,7 +33,8 @@ module moduloPrincipal (reloj, reinicio, identificadorFPGA, identificadorDestino
     wire wireIniciarTransmisionA;
     wire wireIniciarTransmisionB;
     wire wireIniciarTransmisionC;
-
+    
+    /*
     moduloProcesador moduloProcesadorInstancia 
     (
         .reloj (reloj),
@@ -86,7 +87,7 @@ module moduloPrincipal (reloj, reinicio, identificadorFPGA, identificadorDestino
         .recepcionFinalizada (wireRecepcionCFinalizada),
         .lineaTransmisionBits (lineaTransmisionC)
     );
-
+    */
     moduloAntirebote moduloAntireboteBotonEnviar
     (
         .reloj (reloj),

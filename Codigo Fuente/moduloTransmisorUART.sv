@@ -12,7 +12,7 @@ module moduloTransmisorUART #(parameter CICLOS_DE_RELOJ_POR_BIT = 10417, paramet
     parameter [1:0] ESTADO_ENVIANDO_BIT_DE_FINALIZACION = 2'b11;
 
     reg [1:0] registroEstadoActual;
-    reg [CICLOS_DE_RELOJ_POR_BIT-1:0] registroContadorCiclosReloj;
+    reg [13:0] registroContadorCiclosReloj;
     reg [CANTIDAD_BITS_TRANSMISION-1:0] registroIndiceBitTransmitir;
     reg [CANTIDAD_BITS_TRANSMISION-1:0] registroBitsTransmitir;
 

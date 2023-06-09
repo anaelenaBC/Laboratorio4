@@ -32,9 +32,6 @@ read_verilog -library xil_defaultlib -sv {
   {C:/Users/aebol/OneDrive/Desktop/Laboratorio4/Codigo Fuente/moduloAntirebote.sv}
   {C:/Users/aebol/OneDrive/Desktop/Laboratorio4/Codigo Fuente/moduloHexadecimalDisplaySieteSegmentos.sv}
   {C:/Users/aebol/OneDrive/Desktop/Laboratorio4/Codigo Fuente/moduloProcesador.sv}
-  {C:/Users/aebol/OneDrive/Desktop/Laboratorio4/Codigo Fuente/moduloReceptorUART.sv}
-  {C:/Users/aebol/OneDrive/Desktop/Laboratorio4/Codigo Fuente/moduloTransmisorUART.sv}
-  {C:/Users/aebol/OneDrive/Desktop/Laboratorio4/Codigo Fuente/moduloUART.sv}
   {C:/Users/aebol/OneDrive/Desktop/Laboratorio4/Codigo Fuente/moduloPrincipal.sv}
 }
 # Mark all dcp files as not used in implementation to prevent them from being
